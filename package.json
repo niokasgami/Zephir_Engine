@@ -1,0 +1,27 @@
+{
+  "name": "zephir_engine",
+  "version": "1.0.0",
+  "description": "Massive plugin who allow to change MV menues ",
+  "main": "index.js",
+  "scripts": {
+    "test": "hellow_world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niokasgami/Zephir_Engine.git"
+  },
+  "keywords": [
+    "MV",
+    "rpg",
+    "maker"
+  ],
+  "author": "Nio Kasgami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niokasgami/Zephir_Engine/issues"
+  },
+  "homepage": "https://github.com/niokasgami/Zephir_Engine#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
+  }
+}
